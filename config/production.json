@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://admin:admin@companyprogramming.xqkda.mongodb.net/mern-company-manager?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
